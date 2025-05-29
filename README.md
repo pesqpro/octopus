@@ -1,5 +1,6 @@
 ![Banner image](https://user-images.githubusercontent.com/10284570/173569848-c624317f-42b1-45a6-ab09-f0ea3c247648.png)
 
+<<<<<<< HEAD
 # n8n - Secure Workflow Automation for Technical Teams
 
 n8n is a workflow automation platform that gives technical teams the flexibility of code with the speed of no-code. With 400+ integrations, native AI capabilities, and a fair-code license, n8n lets you build powerful automations while maintaining full control over your data and deployments.
@@ -71,3 +72,7 @@ Want to shape the future of automation? Check out our [job posts](https://n8n.io
 
 **Long answer:** "I get that question quite often (more often than I expected) so I decided it is probably best to answer it here. While looking for a good name for the project with a free domain I realized very quickly that all the good ones I could think of were already taken. So, in the end, I chose nodemation. 'node-' in the sense that it uses a Node-View and that it uses Node.js and '-mation' for 'automation' which is what the project is supposed to help with. However, I did not like how long the name was and I could not imagine writing something that long every time in the CLI. That is when I then ended up on 'n8n'." - **Jan Oberhauser, Founder and CEO, n8n.io**
 # Teste de Deploy Automático
+=======
+Deploy test at Thu May 29 06:10:20 UTC 2025
+Deploy automático realizado em: Thu May 29 06:12:34 UTC 2025
+>>>>>>> ece3981b89 (🔥 CI/CD: Teste real de deploy automático com data)
